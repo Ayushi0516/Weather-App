@@ -1,4 +1,4 @@
-// import { googleMapAPI } from "../helpers/API";
+
 
 export const Map = ({ city }) => {
 
@@ -10,7 +10,9 @@ export const Map = ({ city }) => {
                 loading="lazy"
                 allowFullScreen
                 referrerPolicy="no-referrer-when-downgrade"
-                src={`https://www.google.com/maps/embed/v1/place?q=${city}`}>
+                // src={`https://www.google.com/maps/embed/v1/place?q=${city}`}
+              src= {`https://maps.google.com/maps?q=${city}&t=&z=13&ie=UTF8&iwloc=&output=embed`}
+                >
             </iframe>
         </div>
     );
