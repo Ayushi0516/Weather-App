@@ -25,8 +25,7 @@ https://sparkly-cactus-3cd1a2.netlify.app/
 
 ## snapshots:
 
-
-![Mobile responsive](https://user-images.githubusercontent.com/91532881/166426445-3aeee29c-bca7-4d95-a082-70269bb192fd.png)
+![weather app cover](https://user-images.githubusercontent.com/91532881/166434542-76727ccb-0c98-4646-84fb-58e86d7ec3ff.png)
 
 ![weatherapp](https://user-images.githubusercontent.com/91532881/166334689-ac7807e2-6d40-4a8f-b232-c53955f6ea03.png)
 
