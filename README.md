@@ -7,7 +7,7 @@ To use the app, type a name of the city and click on search/press Enter or else 
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,chakraUI)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,chakra-ui,restAPI)](https://skillicons.dev)
 
 ## 🚀 Features
 - Saving the weather data in redux-store and session-storage to reduce the dependency of network requests
