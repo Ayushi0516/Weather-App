@@ -31,6 +31,6 @@ https://sparkly-cactus-3cd1a2.netlify.app/
 
 ![weatherapp2](https://user-images.githubusercontent.com/91532881/166334796-48e0faa6-3e3c-46e5-9cd1-857da895379d.png)
 
-## social
-[![My Skills](https://skillicons.dev/icons?i=linkedin)]()
+## Let's Connect
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayushi-gupta-b98676236/)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/Ayushi0516)
