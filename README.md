@@ -7,7 +7,7 @@ To use the app, type a name of the city and click on search/press Enter or else 
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,chakra-ui,restAPI)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,chakraui,restAPI)](https://skillicons.dev)
 
 ## 🚀 Features
 - Saving the weather data in redux-store and session-storage to reduce the dependency of network requests
@@ -19,3 +19,9 @@ To use the app, type a name of the city and click on search/press Enter or else 
 - Pop up modal to display extra details of seven-day forecast weather
 - Cool zoom-in zoom-out animations 
 - Responsive for every screen size.
+
+## Live Link
+https://sparkly-cactus-3cd1a2.netlify.app/
+
+## snapshots:
+
