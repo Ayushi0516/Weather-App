@@ -11,7 +11,7 @@ To use the app, type a name of the city and click on search/press Enter or else 
 
 ## 🚀 Features
 - Saving the weather data in redux-store and session-storage to reduce the dependency of network requests
-- Search weather details according to city
+- Search weather details according to the city
 - Detect your current location for displaying weather data
 - Shows a map of that location
 - Sync data to get the latest updated details of the current weather
